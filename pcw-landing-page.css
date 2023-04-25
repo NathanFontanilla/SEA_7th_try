@@ -1,0 +1,1290 @@
+/* screen - pcw-landing-page */
+
+.pcw-landing-page {
+  align-items: flex-start;
+  background-color: #f3f3f3;
+  border: 1px none;
+  display: flex;
+  gap: 10px;
+  height: 4386.13px;
+  min-width: 1545px;
+  position: relative;
+  width: 100%;
+}
+
+.pcw-landing-page .website-attempt-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: fit-content;
+}
+
+.pcw-landing-page .x-navigation {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.pcw-landing-page .top-nav {
+  align-items: center;
+  align-self: stretch;
+  background-color: #2e2e2e;
+  display: flex;
+  gap: 435px;
+  height: 45px;
+  padding: 0px 48px;
+  position: relative;
+}
+
+.pcw-landing-page .frame-161 {
+  align-items: center;
+  align-self: stretch;
+  flex: 1;
+  gap: 37px;
+  justify-content: flex-end;
+}
+
+.pcw-landing-page .sample-account {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  position: relative;
+}
+
+.pcw-landing-page .base-tab {
+  align-self: stretch;
+  padding: 16px 0px;
+  width: fit-content;
+}
+
+.pcw-landing-page .frame-4281 {
+  align-items: center;
+  gap: 6px;
+  margin-bottom: -3.50px;
+  margin-top: -3.50px;
+  width: fit-content;
+}
+
+.pcw-landing-page .material-symbolslocation-on {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.pcw-landing-page .tab-name {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .line {
+  height: 24px;
+  min-width: 24px;
+  position: relative;
+}
+
+.pcw-landing-page .frame-42 {
+  align-items: center;
+  gap: 6px;
+  width: fit-content;
+}
+
+.pcw-landing-page .icon-mail {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.pcw-landing-page .text-3 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .mditelephone {
+  height: 17px;
+  min-width: 14px;
+  position: relative;
+}
+
+.pcw-landing-page .text-4 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .primary-navigation {
+  align-items: center;
+  align-self: stretch;
+  background-color: #efead4;
+  display: flex;
+  gap: 30px;
+  height: 90px;
+  justify-content: center;
+  padding: 6px 48px;
+  position: relative;
+}
+
+.pcw-landing-page .frame-167 {
+  align-items: center;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.pcw-landing-page .dalle_2023-04-24_1826-1 {
+  align-self: stretch;
+  height: 56px;
+  min-width: 56px;
+}
+
+.pcw-landing-page .frame-4206 {
+  align-items: flex-start;
+  gap: 48px;
+  width: fit-content;
+}
+
+.pcw-landing-page .frame-223 {
+  align-items: center;
+  gap: 8px;
+  justify-content: center;
+  width: fit-content;
+}
+
+.pcw-landing-page .header-elements-default {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  padding: 8px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.pcw-landing-page .chevron-down {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.pcw-landing-page .header-elements-default-1 {
+  align-items: center;
+  border-radius: 8px;
+  display: flex;
+  gap: 8px;
+  padding: 8px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.pcw-landing-page .button {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  position: relative;
+  width: 129px;
+}
+
+.pcw-landing-page .desktop-button {
+  align-items: center;
+  background-color: var(--potters-clay);
+  border-radius: 100px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 12px 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.pcw-landing-page .text {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -2.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .base-input {
+  flex-direction: column;
+  height: 56px;
+  padding: 8px 0px;
+  width: 208px;
+}
+
+.pcw-landing-page .input-field {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 30px;
+  display: flex;
+  gap: 8px;
+  height: 48px;
+  margin-bottom: -4.00px;
+  margin-top: -4.00px;
+  padding: 8px 12px 8px 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.pcw-landing-page .search {
+  color: #767676;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: 154px;
+}
+
+.pcw-landing-page .search-1 {
+  background-image: url(../img/union.svg);
+  background-size: 100% 100%;
+  height: 17.81px;
+  min-width: 17.81px;
+  position: relative;
+}
+
+.pcw-landing-page .line-1 {
+  align-self: stretch;
+  height: 1px;
+  min-width: 1545px;
+  position: relative;
+}
+
+.pcw-landing-page .image-5 {
+  align-self: stretch;
+  height: 491px;
+  min-width: 1545px;
+  position: relative;
+}
+
+.pcw-landing-page .rectangle-90 {
+  background: linear-gradient(180deg, rgba(2.13, 0, 0, 0.65) 99.99%, rgba(2.13, 0, 0, 0) 100%);
+  height: 491px;
+  left: 0;
+  position: absolute;
+  top: 136px;
+  width: 1549px;
+}
+
+.pcw-landing-page .hero {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--alabaster);
+  display: flex;
+  gap: 138px;
+  padding: 80px 49px;
+  position: relative;
+}
+
+.pcw-landing-page .content {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+  width: 488px;
+}
+
+.pcw-landing-page .header {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.pcw-landing-page .title {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 84.0px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .text-5 {
+  align-self: stretch;
+  color: var(--pale-sky);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0.20px;
+  line-height: normal;
+  position: relative;
+}
+
+.pcw-landing-page .span0 {
+  font-weight: 700;
+}
+
+.pcw-landing-page .span1 {
+  font-weight: 500;
+}
+
+.pcw-landing-page .desktop-button-1 {
+  border: 1px solid;
+  border-color: var(--black);
+}
+
+.pcw-landing-page .text-6 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .images {
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--mirage);
+  border-radius: 6px;
+  height: 425px;
+  min-width: 821px;
+  overflow: hidden;
+  position: relative;
+}
+
+.pcw-landing-page .overlap-group {
+  height: 425px;
+  position: relative;
+  width: 821px;
+}
+
+.pcw-landing-page .vector-stroke {
+  height: 73px;
+  left: 360px;
+  position: absolute;
+  top: 176px;
+  width: 101px;
+}
+
+.pcw-landing-page .unsplashlo-pr-mm-xp-iia {
+  height: 425px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 821px;
+}
+
+.pcw-landing-page .hero-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--alabaster);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  gap: 138px;
+  padding: 80px 49px;
+  position: relative;
+}
+
+.pcw-landing-page .images-1 {
+  background-color: var(--white);
+  background-image: url(../img/unsplash-loprmmxpiia-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 2px solid;
+  border-color: var(--mirage);
+  border-radius: 6px;
+  height: 425px;
+  min-width: 821px;
+  position: relative;
+}
+
+.pcw-landing-page .text-7 {
+  align-self: stretch;
+  color: var(--pale-sky);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0.20px;
+  line-height: normal;
+  position: relative;
+}
+
+.pcw-landing-page .frame-4287 {
+  align-items: flex-start;
+  align-self: stretch;
+  gap: 36px;
+}
+
+.pcw-landing-page .desktop-button-2 {
+  background-color: var(--potters-clay);
+  height: 48px;
+}
+
+.pcw-landing-page .text-8 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .feature {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--alabaster);
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  height: 1410px;
+  padding: 80px 0px;
+  position: relative;
+}
+
+.pcw-landing-page .frame-10 {
+  align-items: center;
+  flex-direction: column;
+  gap: 48px;
+  justify-content: center;
+  width: 696px;
+}
+
+.pcw-landing-page .title-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 84.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .text-9 {
+  align-self: stretch;
+  color: var(--pale-sky);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0.20px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.pcw-landing-page .row {
+  align-items: flex-start;
+  display: flex;
+  gap: 45px;
+  position: relative;
+  width: 1446px;
+}
+
+.pcw-landing-page .feature-card {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 431px;
+  justify-content: center;
+  padding: 32px;
+  position: relative;
+  width: 450px;
+}
+
+.pcw-landing-page .image {
+  align-self: stretch;
+  height: 240px;
+  min-width: 386px;
+  object-fit: cover;
+  position: relative;
+}
+
+.pcw-landing-page .title-text {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  position: relative;
+}
+
+.pcw-landing-page .text-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .text-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+}
+
+.pcw-landing-page .feature-card-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 431px;
+  justify-content: center;
+  padding: 32px;
+  position: relative;
+  width: 456px;
+}
+
+.pcw-landing-page .image-1 {
+  align-self: stretch;
+  height: 240px;
+  min-width: 392px;
+  object-fit: cover;
+  position: relative;
+}
+
+.pcw-landing-page .frame-4285 {
+  align-items: center;
+  flex-direction: column;
+  gap: 36px;
+  margin-bottom: -4.00px;
+  width: fit-content;
+}
+
+.pcw-landing-page .row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 45px;
+  position: relative;
+  width: 1446px;
+}
+
+.pcw-landing-page .text-10 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .brand-container {
+  align-self: stretch;
+  background-color: var(--white);
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 72px 0px;
+}
+
+.pcw-landing-page .frame-4286 {
+  align-items: center;
+  flex-direction: column;
+  gap: 36px;
+  width: 883px;
+}
+
+.pcw-landing-page .spread-love-and-supp {
+  color: #6d6e71;
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 776px;
+}
+
+.pcw-landing-page .brand-icons {
+  gap: 46px;
+  height: 82.07px;
+  width: fit-content;
+}
+
+.pcw-landing-page .image-7 {
+  height: 84.06px;
+  margin-bottom: -0.99px;
+  margin-top: -0.99px;
+  min-width: 84.26px;
+  object-fit: cover;
+  position: relative;
+}
+
+.pcw-landing-page .image-8 {
+  height: 71px;
+  min-width: 62.28px;
+  object-fit: cover;
+  position: relative;
+}
+
+.pcw-landing-page .unknown-1 {
+  height: 77.24px;
+  min-width: 95px;
+}
+
+.pcw-landing-page .unknown-2 {
+  height: 90.86px;
+  margin-bottom: -4.39px;
+  margin-top: -4.39px;
+  min-width: 90.86px;
+}
+
+.pcw-landing-page .sign-up {
+  align-items: center;
+  align-self: stretch;
+  background-color: #efead4;
+  display: flex;
+  gap: 32px;
+  justify-content: center;
+  padding: 32px 0px;
+  position: relative;
+}
+
+.pcw-landing-page .enter-your-email-add {
+  color: var(--black);
+  font-size: var(--font-size-s);
+  font-weight: 600;
+  line-height: 26px;
+  position: relative;
+  width: fit-content;
+}
+
+.pcw-landing-page .group-2527 {
+  height: 48px;
+  min-width: 459px;
+  position: relative;
+}
+
+.pcw-landing-page .text-field {
+  align-items: flex-start;
+  display: flex;
+  min-width: 459px;
+  padding: 0 0.5px;
+}
+
+.pcw-landing-page .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--black);
+  border-radius: 31px;
+  display: flex;
+  height: 48px;
+  min-width: 451px;
+  padding: 10px 14.5px;
+}
+
+.pcw-landing-page .enter-your-email-address {
+  color: #767676;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  height: 24px;
+  line-height: 24px;
+}
+
+.pcw-landing-page .dektop-footer {
+  align-items: flex-end;
+  align-self: stretch;
+  background-color: #2e2e2e;
+  display: flex;
+  flex-direction: column;
+  height: 733.06px;
+  justify-content: flex-end;
+  padding: 0px 0px 16px;
+  position: relative;
+}
+
+.pcw-landing-page .frame-4284 {
+  align-items: flex-start;
+  width: fit-content;
+}
+
+.pcw-landing-page .logo {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 32px 13px 32px 53px;
+  position: relative;
+  width: fit-content;
+}
+
+.pcw-landing-page .dalle_2023-04-24_1826-2 {
+  height: 38px;
+  min-width: 38px;
+}
+
+.pcw-landing-page .links {
+  align-items: flex-start;
+  display: flex;
+  gap: 32px;
+  padding: 32px 48px 64px;
+  position: relative;
+  width: 1440px;
+}
+
+.pcw-landing-page .column {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 300px;
+}
+
+.pcw-landing-page .shop-learn {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.pcw-landing-page .about-pwc {
+  flex: 1;
+  line-height: 24px;
+}
+
+.pcw-landing-page .kc-links {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.pcw-landing-page .frame-15 {
+  align-items: center;
+  align-self: stretch;
+  gap: 8px;
+}
+
+.pcw-landing-page .about-us {
+  line-height: 22px;
+  width: fit-content;
+}
+
+.pcw-landing-page .union {
+  height: 11px;
+  margin-right: -3706.00px;
+  margin-top: -11.57px;
+  min-width: 11px;
+  position: relative;
+}
+
+.pcw-landing-page .latest-news {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .services-we-provide {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .towards-freedom {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .immigration-assistance {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .workers-first-ca-app {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .filipino-voter-empow {
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  width: 211px;
+}
+
+.pcw-landing-page .workplace-justice {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .policy-and-advocacy {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .tax-preparation {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .phone-utility-bill-assistance {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .jeepney-tours-rentals {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .every-filipino-counts {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .workforce-training {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .column-1 {
+  gap: 24px;
+  height: 190px;
+}
+
+.pcw-landing-page .shop-learn-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  position: relative;
+}
+
+.pcw-landing-page .resources {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .shop-and-learn-links {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 288px;
+}
+
+.pcw-landing-page .events {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .projects-management-rfp {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .covid-19-policy {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .job-openings {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .volunteer {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .column-2 {
+  gap: 48px;
+}
+
+.pcw-landing-page .connect {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 288px;
+}
+
+.pcw-landing-page .connect-with-us {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .social-icons {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: 224px;
+}
+
+.pcw-landing-page .social-icons-item {
+  height: 32px;
+  min-width: 32px;
+  position: relative;
+}
+
+.pcw-landing-page .instagram {
+  align-items: center;
+  border-radius: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  padding: 4px 2px;
+  position: relative;
+  width: 32px;
+}
+
+.pcw-landing-page .instagram-1 {
+  color: var(--white);
+  font-family: var(--font-family-font_awesome_6_brands-regular);
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .divider-line {
+  align-self: stretch;
+  height: 1px;
+  min-width: 300px;
+  position: relative;
+}
+
+.pcw-landing-page .download-app {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.pcw-landing-page .image-9 {
+  height: 111px;
+  min-width: 111px;
+  object-fit: cover;
+  position: relative;
+}
+
+.pcw-landing-page .workers-first-ca {
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .the-must-have-app-fo {
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  width: 289px;
+}
+
+.pcw-landing-page .app-store-icon {
+  height: 38.06px;
+  min-width: 281.15px;
+  position: relative;
+}
+
+.pcw-landing-page .bottom {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  gap: 1020px;
+  padding: 12px 48px;
+  position: relative;
+}
+
+.pcw-landing-page .languages {
+  align-items: center;
+  display: flex;
+  gap: 48px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.pcw-landing-page .copyright-all-righ {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .span1-1 {
+  text-decoration: underline;
+}
+
+.pcw-landing-page .redesigned-by-nathan-f {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .frame-185 {
+  align-items: center;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  margin-right: -307.00px;
+  width: fit-content;
+}
+
+.pcw-landing-page .privacy-terms-sitemap {
+  color: transparent;
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .span-1 {
+  color: #c195e5;
+}
+
+.pcw-landing-page .header-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: center;
+  left: 440px;
+  position: absolute;
+  top: 245px;
+  width: fit-content;
+}
+
+.pcw-landing-page .title-2 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 84.0px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .text-11 {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0.20px;
+  line-height: normal;
+  position: relative;
+  width: 664px;
+}
+
+.pcw-landing-page .about {
+  letter-spacing: 0;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .base {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  justify-content: center;
+  position: relative;
+}
+
+.pcw-landing-page .brand {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.pcw-landing-page .button-3 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+
+.pcw-landing-page .chevron-down-3 {
+  height: 20px;
+  min-width: 20px;
+  position: relative;
+}
+
+.pcw-landing-page .column-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 300px;
+}
+
+.pcw-landing-page .dalle_2023-04-24_1826 {
+  object-fit: cover;
+  position: relative;
+}
+
+.pcw-landing-page .desktop-button-3 {
+  align-items: center;
+  border-radius: 100px;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 12px 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.pcw-landing-page .enter-your-email {
+  font-family: var(--font-family-montserrat);
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .frame {
+  display: flex;
+  position: relative;
+}
+
+.pcw-landing-page .press {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.pcw-landing-page .tab-name-6 {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pcw-landing-page .unknown {
+  object-fit: cover;
+  position: relative;
+}

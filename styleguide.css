@@ -1,0 +1,92 @@
+:root { 
+  --alabaster: #f9fafb;
+  --black: #000000;
+  --black-2: #090000;
+  --mirage: #111827;
+  --pale-sky: #6d7280;
+  --potters-clay: #865832;
+  --white: #ffffff;
+ 
+  --font-size-l: 32px;
+  --font-size-m: 20px;
+  --font-size-s: 18px;
+  --font-size-xl: 60px;
+  --font-size-xs: 16px;
+  --font-size-xxs: 14px;
+  --font-size-xxxs: 12px;
+ 
+  --font-family-font_awesome_6_brands-regular: "Font Awesome 6 Brands-Regular", Helvetica;
+  --font-family-montserrat: "Montserrat", Helvetica;
+  --font-family-nunito: "Nunito", Helvetica;
+}
+.montserrat-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.nunito-normal-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-semi-bold-mirage-20px {
+  color: var(--mirage);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.montserrat-medium-pale-sky-16px {
+  color: var(--pale-sky);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.montserrat-bold-black-16px {
+  color: var(--black-2);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserrat-bold-black-16px-2 {
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.montserrat-normal-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.montserrat-bold-mirage-60px {
+  color: var(--mirage);
+  font-family: var(--font-family-montserrat);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
